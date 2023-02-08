@@ -5,7 +5,7 @@ import App from './App';
 import * as _ from 'lodash';
 console.log('index', '_', _.isArray([]));
 
-import { add } from '@yarn3-demo/common/components/test';
+import { add } from '@yarn3-demo/common';
 console.log(add(1, 2));
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
