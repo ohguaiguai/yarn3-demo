@@ -1,0 +1,25 @@
+{
+  "name": "@yarn3-demo/common",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "zhangxing <zhangxing@kuaishou.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/common.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.corp.kuaishou.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/common.test.js"
+  },
+  "dependencies": {
+    "antd": "^5.1.7"
+  }
+}
