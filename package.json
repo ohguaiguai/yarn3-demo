@@ -113,10 +113,5 @@
     "presets": [
       "react-app"
     ]
-  },
-  "dependenciesMeta": {
-    "lodash@4.17.21": {
-      "unplugged": true
-    }
   }
 }
