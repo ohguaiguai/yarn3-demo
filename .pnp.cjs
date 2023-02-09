@@ -11471,7 +11471,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],\
       ["lodash", [\
         ["npm:4.17.21", {\
-          "packageLocation": "./.yarn/unplugged/lodash-npm-4.17.21-6382451519/node_modules/lodash/",\
+          "packageLocation": "./.yarn/cache/lodash-npm-4.17.21-6382451519-eb835a2e51.zip/node_modules/lodash/",\
           "packageDependencies": [\
             ["lodash", "npm:4.17.21"]\
           ],\

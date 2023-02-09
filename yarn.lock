@@ -13719,9 +13719,6 @@ __metadata:
     webpack-dev-server: ^4.6.0
     webpack-manifest-plugin: ^4.0.2
     workbox-webpack-plugin: ^6.4.1
-  dependenciesMeta:
-    lodash@4.17.21:
-      unplugged: true
   languageName: unknown
   linkType: soft
 
